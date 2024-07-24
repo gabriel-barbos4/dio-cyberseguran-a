@@ -22,3 +22,5 @@
 * URL para clone: http://www.facebook.com
 
 ### Resultados:
+
+![Screenshot_2024-07-22_23_16_43](https://github.com/user-attachments/assets/1ed69633-778b-4af9-9036-176f44b29833)
